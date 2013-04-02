@@ -1,7 +1,7 @@
 {
   "name": "zerolog",
   "description": "nodejs log",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "./lib/ZeroLog.js",
   "homepage": "https://github.com/looksgood/",
   "keywords": [
